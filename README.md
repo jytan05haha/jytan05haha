@@ -10,7 +10,7 @@ I hope my contribution to this society inherently makes the world to be a better
 
 Software/game development is my interest
 
-Kernel development is my final aim especially to be Linux oriented
+Kernel development is my final aim particularly to be Linux oriented
 
 But still far away though :) will do my best to express my love to this community, kekw
 
