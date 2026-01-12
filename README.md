@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there this is a documentation for my journey as a dveloper👋
 
 <!--
 **jytan05haha/jytan05haha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
