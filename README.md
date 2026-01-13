@@ -15,7 +15,7 @@ Kernel development is my final aim particularly to be Linux oriented
 But still far away though :) will do my best to express my love to this community, kekw
 
 Primary school - SJK (C) Pei Yang <br>
-Secondary school - SMK Dato' Sri Amar Diraja (SPM 1A+ 7A 2A- + Japanese N5 A) <br>
+Secondary school - SMK Dato' Sri Amar Diraja (SPM 1A+ 7A 2A- & Japanese N5 A) <br>
 Pre-u - STPM (STPM CGPA 3.25) <br>
 
 * 🌍  I'm based in Malaysia
