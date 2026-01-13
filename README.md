@@ -14,6 +14,10 @@ Kernel development is my final aim particularly to be Linux oriented
 
 But still far away though :) will do my best to express my love to this community, kekw
 
+Primary school - SJK (C) Pei Yang 
+Secondary school - SMK Dato' Sri Amar Diraja (SPM 1A+ 7A 2A- + Japanese N5 A)
+Pre-u - STPM (STPM CGPA 3.25)
+
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [jytan05@gmail.com](mailto:jytan05@gmail.com)
 * 🧠  I'm currently learning postgresql, C, Golang, C++
